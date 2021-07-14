@@ -1,0 +1,4 @@
+title: HLS
+type:
+  id: '@riboseinc/paneron-extension-hls'
+  version: 1.0.0-dev3
